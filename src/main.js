@@ -185,6 +185,7 @@ export default async function main () {
                     ghost.play = false
                     ghost.speedX = 0
                     ghost.speedY = 0
+
                     party.remove(ghost)
                     ghosts.splice(ghosts.indexOf(ghost), 1)
 

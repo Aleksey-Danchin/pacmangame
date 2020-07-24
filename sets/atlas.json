@@ -2020,10 +2020,10 @@
     },
 
     "position": {
-        "red": { "x": 4, "y": 228, "direction": "right" },
-        "pink": { "x": 4, "y": 4, "direction": "down" },
-        "turquoise": { "x": 204, "y": 228, "direction": "up" },
-        "banana": { "x": 204, "y": 4, "direction": "left" },
+        "red": { "x": 5, "y": 228, "direction": "right" },
+        "pink": { "x": 5, "y": 4, "direction": "down" },
+        "turquoise": { "x": 204, "y": 229, "direction": "up" },
+        "banana": { "x": 204, "y": 5, "direction": "left" },
         "pacman": { "x": 104, "y": 181 },
         "tablets": [
             { "x": 8, "y": 24, "width": 8, "height": 8 },
